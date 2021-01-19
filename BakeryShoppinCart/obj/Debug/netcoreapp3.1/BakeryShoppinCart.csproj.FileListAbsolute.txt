@@ -1,0 +1,12 @@
+/Users/erickmeraz/Desktop/BakeryShoppingCart/BakeryShoppinCart/BakeryShoppinCart/bin/Debug/netcoreapp3.1/BakeryShoppinCart.deps.json
+/Users/erickmeraz/Desktop/BakeryShoppingCart/BakeryShoppinCart/BakeryShoppinCart/bin/Debug/netcoreapp3.1/BakeryShoppinCart.runtimeconfig.json
+/Users/erickmeraz/Desktop/BakeryShoppingCart/BakeryShoppinCart/BakeryShoppinCart/bin/Debug/netcoreapp3.1/BakeryShoppinCart.runtimeconfig.dev.json
+/Users/erickmeraz/Desktop/BakeryShoppingCart/BakeryShoppinCart/BakeryShoppinCart/bin/Debug/netcoreapp3.1/BakeryShoppinCart.dll
+/Users/erickmeraz/Desktop/BakeryShoppingCart/BakeryShoppinCart/BakeryShoppinCart/bin/Debug/netcoreapp3.1/BakeryShoppinCart.pdb
+/Users/erickmeraz/Desktop/BakeryShoppingCart/BakeryShoppinCart/BakeryShoppinCart/obj/Debug/netcoreapp3.1/BakeryShoppinCart.csprojAssemblyReference.cache
+/Users/erickmeraz/Desktop/BakeryShoppingCart/BakeryShoppinCart/BakeryShoppinCart/obj/Debug/netcoreapp3.1/BakeryShoppinCart.AssemblyInfoInputs.cache
+/Users/erickmeraz/Desktop/BakeryShoppingCart/BakeryShoppinCart/BakeryShoppinCart/obj/Debug/netcoreapp3.1/BakeryShoppinCart.AssemblyInfo.cs
+/Users/erickmeraz/Desktop/BakeryShoppingCart/BakeryShoppinCart/BakeryShoppinCart/obj/Debug/netcoreapp3.1/BakeryShoppinCart.csproj.CoreCompileInputs.cache
+/Users/erickmeraz/Desktop/BakeryShoppingCart/BakeryShoppinCart/BakeryShoppinCart/obj/Debug/netcoreapp3.1/BakeryShoppinCart.dll
+/Users/erickmeraz/Desktop/BakeryShoppingCart/BakeryShoppinCart/BakeryShoppinCart/obj/Debug/netcoreapp3.1/BakeryShoppinCart.pdb
+/Users/erickmeraz/Desktop/BakeryShoppingCart/BakeryShoppinCart/BakeryShoppinCart/obj/Debug/netcoreapp3.1/BakeryShoppinCart.genruntimeconfig.cache
